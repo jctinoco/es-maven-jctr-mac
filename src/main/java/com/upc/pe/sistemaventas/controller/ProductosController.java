@@ -10,7 +10,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import com.upc.pe.sistemaventas.model.Producto;
 import com.upc.pe.sistemaventas.repo.ProductosRepository;
 
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 
 @Controller
 @RequestMapping(path = "/productos")

@@ -1,6 +1,6 @@
 package com.upc.pe.sistemaventas.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 import com.upc.pe.sistemaventas.util.Utiles;
 

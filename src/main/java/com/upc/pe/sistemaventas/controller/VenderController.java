@@ -14,7 +14,7 @@ import com.upc.pe.sistemaventas.repo.ProductosRepository;
 import com.upc.pe.sistemaventas.repo.ProductosVendidosRepository;
 import com.upc.pe.sistemaventas.repo.VentasRepository;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 
 @Controller
